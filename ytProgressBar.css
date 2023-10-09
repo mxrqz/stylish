@@ -1,0 +1,35 @@
+.html5-play-progress,
+.ytp-play-progress {
+    background: #C77DFF !important;
+}
+
+.html5-scrubber-button,
+.ytp-scrubber-button {
+    background: url("https://res.cloudinary.com/mxrqz/image/upload/c_scale,w_46/v1692055147/youtube/kuromi_happy_no_bg_ehaowd.png") no-repeat !important;
+    width: 45px !important;
+    height: 60px !important;
+    border: none !important;
+    margin-left: -20px !important;
+    margin-top: -25px !important;
+}
+
+.html5-progress-bar-container,
+.ytp-progress-bar-container {
+    height: 12px !important;
+}
+
+.html5-progress-bar,
+.ytp-progress-bar {
+    margin-top: 12px !important;
+}
+
+.html5-progress-list,
+.ytp-progress-list,
+.video-ads .html5-progress-list.html5-ad-progress-list,
+.video-ads .ytp-progress-list.ytp-ad-progress-list {
+    height: 3px !important;
+}
+
+.ytp-volume-slider-track {
+    background: #C77DFF !important;
+}
